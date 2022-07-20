@@ -1,5 +1,4 @@
 .header {
-    /* make everything here in the same time */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
