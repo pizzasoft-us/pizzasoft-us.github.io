@@ -1,0 +1,9 @@
+.header {
+    /* make everything here in the same time */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    border-bottom: 1px solid #e5e5e5;
+}
